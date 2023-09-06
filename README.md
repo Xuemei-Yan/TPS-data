@@ -9,6 +9,10 @@ Phylogenetic and gene synteny analysis of the TPS gene across a diverse range of
 [Raw_data](https://github.com/Xuemei-Yan/TPS-data/tree/master/Raw_data): It is used to regenerate the gene synteny network using SynNet-Pipeline (https://github.com/zhaotao1987/SynNet-Pipeline);
 
 [Sequence_alignments](https://github.com/xmy-1682/TPS-data/tree/master/Sequence_alignments): The alignments of TPS FP01397 domain, PF03936 domain and full-length TPS sequences;
+    File Angiosperms_TPS_gene.mafft.zip: the alignments of all angiosperms full-length TPS gene;
+    File all_non_angiosperms_TPS_gene.mafft.zip: the alignments of all non-angiosperms (non-seed plants and gymnosperms) full-length TPS gene ;
+    File all_TPS_PF01397_region.mafft.zip: the alignments of PF01397 domain sequences from plants and microbes;
+    File all_TPS_PF03936_region.mafft.zip: the alignments of PF03936 domain sequences from plants and microbes;
 
 [plantiSMASH_results](https://github.com/Xuemei-Yan/TPS-data/tree/master/PlantiSMASH_results): The Biosynthetic Gene Clusters (BGCs) identied by plantiSMASH (http://plantismash.secondarymetabolites.org/);
 
